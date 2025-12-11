@@ -1,0 +1,6 @@
+[submodule "React-Movies"]
+	path = React-Movies
+	url = https://github.com/juliacanavezzi/React-Movies
+[submodule "Node-Movies"]
+	path = Node-Movies
+	url = https://github.com/rafaScalet/Node-Movies
