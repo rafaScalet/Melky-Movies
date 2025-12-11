@@ -1,0 +1,3 @@
+include:
+  - ./Node-Movies/compose.yml
+  - ./React-Movies/compose.yml
