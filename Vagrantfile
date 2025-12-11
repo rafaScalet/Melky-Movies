@@ -78,7 +78,5 @@ Vagrant.configure("2") do |config|
     systemctl enable --now docker
 
     usermod -aG vagrant && newgrp docker
-
-    docker compose up --build --detach
   SHELL
 end
