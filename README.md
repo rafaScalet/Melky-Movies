@@ -31,3 +31,5 @@ Rode o projeto usando o docker:
 ```shell
 docker compose up
 ```
+
+Abra no seu navegador a URL: `localhost:8080`
